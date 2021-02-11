@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio_rev6/static/css/main.d1853049.chunk.css",
+    "main.js": "/portfolio_rev6/static/js/main.5e7f85b9.chunk.js",
+    "main.js.map": "/portfolio_rev6/static/js/main.5e7f85b9.chunk.js.map",
+    "runtime~main.js": "/portfolio_rev6/static/js/runtime~main.7b03f9ce.js",
+    "runtime~main.js.map": "/portfolio_rev6/static/js/runtime~main.7b03f9ce.js.map",
+    "static/js/2.ae0b8ef7.chunk.js": "/portfolio_rev6/static/js/2.ae0b8ef7.chunk.js",
+    "static/js/2.ae0b8ef7.chunk.js.map": "/portfolio_rev6/static/js/2.ae0b8ef7.chunk.js.map",
+    "index.html": "/portfolio_rev6/index.html",
+    "precache-manifest.db25d3b6ad3aabe383d88b5344504fee.js": "/portfolio_rev6/precache-manifest.db25d3b6ad3aabe383d88b5344504fee.js",
+    "service-worker.js": "/portfolio_rev6/service-worker.js",
+    "static/css/main.d1853049.chunk.css.map": "/portfolio_rev6/static/css/main.d1853049.chunk.css.map",
+    "static/media/Gurunavi.png": "/portfolio_rev6/static/media/Gurunavi.72abfc8f.png",
+    "static/media/Real_Estate_Agent.png": "/portfolio_rev6/static/media/Real_Estate_Agent.1b93ed3c.png",
+    "static/media/Snapshot.PNG": "/portfolio_rev6/static/media/Snapshot.6e6c0a0f.PNG",
+    "static/media/calorywatcher.png": "/portfolio_rev6/static/media/calorywatcher.5777e585.png",
+    "static/media/nyt.png": "/portfolio_rev6/static/media/nyt.48a112d1.png",
+    "static/media/today_s_menu.png": "/portfolio_rev6/static/media/today_s_menu.d710abad.png"
+  }
+}
